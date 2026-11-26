@@ -1,0 +1,10 @@
+target/
+*.class
+*.jar
+.idea/
+*.iml
+*.iws
+.DS_Store
+Thumbs.db
+.env
+*config*.properties
